@@ -1,0 +1,27 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: README
+#+date: <2022-05-06 Fri>
+#+author: Panayotis Manganaris
+#+email: panos.manganaris@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.0.50 (Org mode 9.5.3)
+#+cite_export:
+* Dedicated Mail Retreival Agent
+in the spirit of very lightweight unixy things like fetchmail, getmail, procmail?
+
+honestly. I haven't used any of them
+
+Up until now I've been a slave to excess. No longer.
+
+This is a learning exercise.
+
+probably not perfect
+
+help welcome
+
