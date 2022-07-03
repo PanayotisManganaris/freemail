@@ -12,16 +12,5 @@
 #+exclude_tags: noexport
 #+creator: Emacs 29.0.50 (Org mode 9.5.3)
 #+cite_export:
-* Dedicated Mail Retreival Agent
-in the spirit of very lightweight unixy things like fetchmail, getmail, procmail?
 
-honestly. I haven't used any of them
-
-Up until now I've been a slave to excess. No longer.
-
-This is a learning exercise.
-
-probably not perfect
-
-help welcome
-
+* Mail Retreival Agent using Exchange Web Services

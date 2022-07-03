@@ -2,7 +2,7 @@
 name = "freemail"
 version = "0.1.0"
 description = ""
-authors = ["Panayotis Manganaris <panos.manganaris@gmail.com>"]
+authors = ["Panayotis Manganaris <panos.manganaris@gmail.com>", "Tassos Manganaris <tassos.manganaris@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
